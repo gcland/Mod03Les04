@@ -1,6 +1,6 @@
 import re
 
-text = "Name: fhsiudhfuskdn23423; Age: 30; Occupation: 8wa7dasdzzzskjn!; Location: New York"
+text = "Name: John Doe; Age: 30; Occupation: Engineer; Location: New York"
 # Extract the Occupation from the text
 # Your code here
 
